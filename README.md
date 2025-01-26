@@ -104,7 +104,7 @@ To run the FastAPI application using Docker, follow these steps:
      ```bash
      curl -X POST http://127.0.0.1:8000/analyze_quiz
      ```
-[Click here to watch the video](api_guide.mp4)
+[Click here to watch the video](api-guide.mp4)
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 

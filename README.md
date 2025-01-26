@@ -31,8 +31,8 @@ The notebook contains the following key sections:
 The dataset includes the following columns:
 - **quiz.topic**: The subject of the quiz (e.g., Body Fluids and Circulation, Human Reproduction).
 - **score**: The score achieved by students in each quiz.
-  - ![distribution of scores](images/score-vs-frequency.png)
-  - ![score over time](images/score-over-time.png)
+  - ![distribution of scores](score-vs-frequency.png)
+  - ![score over time](score-over-time.png)
 ### Sample Data
 | quiz.topic                               | score |
 |------------------------------------------|-------|

@@ -33,6 +33,7 @@ The dataset includes the following columns:
 - **score**: The score achieved by students in each quiz.
   - ![distribution of scores](score-vs-frequency.png)
   - ![score over time](score-over-time.png)
+  -  ![topic&title.png](topic&title.png)
 ### Sample Data
 | quiz.topic                               | score |
 |------------------------------------------|-------|

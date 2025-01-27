@@ -4,7 +4,7 @@ from fastapi import FastAPI, HTTPException
 import google.generativeai as genai
 
 # Configure Gemini API using the provided API key
-genai.configure(api_key="AIzaSyBlNQsGCa4VjCUm8BB-HXvdOspO9j0W324")
+genai.configure(api_key="YOUR API KEY")
 
 # Create FastAPI app
 app = FastAPI()
